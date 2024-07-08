@@ -17,6 +17,7 @@ hr{
 .img1{
     float: right !important;
 }
+
 .hd1{
   float:left !important;}
 @media  (max-width:600px) {
